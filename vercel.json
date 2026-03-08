@@ -1,0 +1,9 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "rewrites": [
+    {
+      "source": "/:path*",
+      "destination": "https://lumalabs.ai/capture/54898199-edec-4deb-b72a-9c71a70b53f3/:path*"
+    }
+  ]
+}
